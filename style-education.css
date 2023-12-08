@@ -1,0 +1,127 @@
+body{
+    background-image: url(489068.jpg);
+}
+.div1{
+   border:none,solid;
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.736);
+    padding-left: 8px;
+    padding-right: 30px;
+    padding-bottom: 95px;
+    width: 300px;
+    height: 640px;
+    display: inline-block;
+}
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:25px;
+    color:white;
+    margin-top: 50px;
+    margin-left: 6px;
+    text-align:center;
+    border-left: 2px solid;
+    border-top: 2px solid;
+    border-right: 2px solid;
+    border-bottom: 2px solid;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.job{
+    color:white;
+    text-align: center;
+    font-size: 17px;
+}
+.about{
+color:white;
+background-color:rgba(0, 0, 0, 0);
+font-family:Arial, Helvetica, sans-serif;
+font-size: 18px; 
+padding-bottom: 20px;
+padding-left: 8px;
+padding-top: 20px;
+cursor: pointer;
+background: none;
+border:none;
+display:inline-block;
+} 
+.div{
+display: flex;
+}
+a:link{
+    color: white;
+    text-decoration: none;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    opacity: 0.5;
+}
+a:active{
+    opacity: 1;
+}
+.dot{
+    width: 25px;
+    height: 25px;
+    background-color: black;
+}
+.div-edu{
+    background-color:rgba(250, 235, 215, 0.841);;
+width: 810px;
+height: 600px;
+border-bottom: 2px white solid;
+border-top: 2px white solid;
+border-left: 2px white solid;
+border-right: 2px white solid;
+margin-left: 150px;
+margin-top: 70px;
+}
+.edu-head{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 300px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    padding: 10px;
+    display: inline-block;
+}
+.div-year{
+    margin-top: 10px;
+}
+.year{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-weight: bold;
+    display: inline;
+    margin-left: 50px;
+}
+.red-line{
+    width: 5px;
+    height: 80px;
+    background-color: red;
+    margin-left: 83px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.edu{
+    display: flex;
+}
+.p-school{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.edu-text{
+    width: 600px;
+    height: 115px;
+    background-color: rgba(125, 108, 104, 0.473);
+    margin-left: 20px;
+}
+.p-about{
+    padding-left: 10px;
+}
